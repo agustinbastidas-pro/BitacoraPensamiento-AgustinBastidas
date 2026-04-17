@@ -1,1 +1,0 @@
-# An-lisis-Sobre-Her-
