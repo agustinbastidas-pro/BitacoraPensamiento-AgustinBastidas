@@ -1,9 +1,9 @@
 # Plantilla para solemne-02
-
+https://editor.p5js.org/pavlosky/sketches/GnCdTUXrU
 ## Agustín Bastidas Pablo Godoy
 
 - (Agustín Bastidas) [cuentaGithub](https://github.com/agustinbastidas-pro)
-- (Pablo Godoy) [cuentaGithub](https://github.com/cuentaGithub)
+- (Pablo Godoy) [cuentaGithub](https://github.com/pavloskyyy?fbclid=PAVERFWAR9gi1leHRuA2FlbQIxMABzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacbrZYrRCUBERdEqw3RNgZTDcM62ygVIE4RvcXeCLYeR2mCPQ6y_Unt8WZ9fw_aem_ZlE6GqyvTHVaQtuMWmMyhQ)
 
 ##“Club de Porros” es un álbum de Mamborap que refleja la vida urbana y la cultura juvenil desde una mirada relajada y callejera. Con beats lentos y una atmósfera “volada”, el proyecto mezcla temas como el consumo, la amistad y el escape de la rutina, convirtiéndose en un referente del rap underground 
   chileno.
